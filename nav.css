@@ -1,0 +1,43 @@
+nav ul {
+
+    margin: 6px;
+
+    padding: 0;
+
+}
+
+
+
+nav ul li {
+
+    border: 1px #ccc solid;
+
+    list-style: none;
+
+    display: inline-block;
+
+    padding: 10px;
+
+    background: rgb(0, 255, 170);
+
+    font-weight: 700;
+
+    color: #fff;
+    overflow: hidden;
+}
+
+
+
+nav ul li a {
+
+    color:gold;
+
+    text-decoration: none;
+    overflow: hidden;
+}
+
+nav ul li:hover {
+
+    background:blue;
+
+}
